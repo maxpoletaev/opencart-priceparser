@@ -1,0 +1,30 @@
+{
+  "name": {
+    "overwrite": true,
+    "default": ""
+  },
+  "meta_keyword": {
+    "overwrite": true,
+    "default": ""
+  },
+  "meta_description": {
+    "overwrite": true,
+    "default": ""
+  },
+  "description": {
+    "overwrite": true,
+    "default": ""
+  },
+  "seo_title": {
+    "overwrite": true,
+    "default": ""
+  },
+  "seo_h1": {
+    "overwrite": true,
+    "default": ""
+  },
+  "tag": {
+    "overwrite": true,
+    "default": ""
+  }
+}

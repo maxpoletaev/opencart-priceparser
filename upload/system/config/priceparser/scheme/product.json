@@ -1,0 +1,126 @@
+{
+  "model": {
+    "overwrite": true,
+    "default": ""
+  },
+  "sku": {
+    "overwrite": true,
+    "default": ""
+  },
+  "upc": {
+    "overwrite": true,
+    "default": ""
+  },
+  "ean": {
+    "overwrite": true,
+    "default": ""
+  },
+  "jan": {
+    "overwrite": true,
+    "default": ""
+  },
+  "isbn": {
+    "overwrite": true,
+    "default": ""
+  },
+  "mpn": {
+    "overwrite": true,
+    "default": ""
+  },
+  "location": {
+    "overwrite": true,
+    "default": ""
+  },
+  "price": {
+    "overwrite": true,
+    "default": 0
+  },
+  "tax_class_id": {
+    "overwrite": true,
+    "default": 0
+  },
+  "quantity": {
+    "overwrite": true,
+    "default": 1
+  },
+  "minimum": {
+    "overwrite": true,
+    "default": 1
+  },
+  "subtract": {
+    "overwrite": true,
+    "default": 1
+  },
+  "stock_status_id": {
+    "overwrite": true,
+    "default": 1
+  },
+  "shipping": {
+    "overwrite": true,
+    "default": true
+  },
+  "keyword": {
+    "overwrite": true,
+    "default": ""
+  },
+  "image": {
+    "overwrite": true,
+    "default": ""
+  },
+  "length": {
+    "overwrite": true,
+    "default": 0
+  },
+  "length_class_id": {
+    "overwrite": true,
+    "default": 1
+  },
+  "width": {
+    "overwrite": true,
+    "default": 0
+  },
+  "height": {
+    "overwrite": true,
+    "default": 0
+  },
+  "weight": {
+    "overwrite": true,
+    "default": 0
+  },
+  "weight_class_id": {
+    "overwrite": true,
+    "default": 1
+  },
+  "manufacturer_id": {
+    "overwrite": true,
+    "default": 0
+  },
+  "main_category_id": {
+    "overwrite": true,
+    "default": 0
+  },
+  "product_store": {
+    "overwrite": true,
+    "default": [0]
+  },
+  "product_option": {
+    "overwrite": true,
+    "default": []
+  },
+  "date_available": {
+    "overwrite": true,
+    "default": "0000-00-00"
+  },
+  "status": {
+    "overwrite": true,
+    "default": true
+  },
+  "points": {
+    "overwrite": true,
+    "default": 0
+  },
+  "sort_order": {
+    "overwrite": true,
+    "default": 0
+  }
+}
